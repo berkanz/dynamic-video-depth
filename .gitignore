@@ -1,0 +1,7 @@
+thirdparty/
+*.npz
+*.pt
+*.pth
+*.pyc
+*.png
+*.html

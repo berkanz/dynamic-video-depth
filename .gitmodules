@@ -1,0 +1,10 @@
+[submodule "third_party/RAFT"]
+	path = third_party/RAFT
+	url = https://github.com/princeton-vl/RAFT.git
+
+[submodule "third_party/Mask_RCNN"]
+	path = third_party/Mask_RCNN
+	url = https://github.com/matterport/Mask_RCNN.git
+
+
+
